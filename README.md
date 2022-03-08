@@ -3,7 +3,7 @@
 - [Installing the OS](#installing-the-os)
     - [Setting up SSH keys](#ssh-keys)
 
-<a id="installing-the-os" name='installing-the-os'></a>
+<a name='installing-the-os'></a>
 
 #### Installing the OS
 
