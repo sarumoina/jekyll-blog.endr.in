@@ -8,6 +8,7 @@
 - [Installing Yarn](#installing-yarn)
 - [Installing pm2](#installing-pm2)
 - [Cloning repo](#cloning-repo)
+- [Environment variables](#environment-variables)
 
 <a name='installing-the-os'></a>
 
@@ -292,4 +293,51 @@ Go to the base (project folder where package.json exists) folder and execute the
 ```
 $ git config core.sshCommand "ssh -i ~/.ssh/id_rsa_example -F /dev/null"
 ```
+
+----
+
+## Environment variables:
+
+There are two ways you can add environment variables.
+
+#### First way:
+
+```bash
+$ sudo nano /etc/environment
+```
+
+then, 
+
+    # /etc/environment
+    PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+    JAVA_HOME=/usr/lib/jvm/adoptopenjdk-11-hotspot-amd64
+    LD_LIBRARY_PATH=/usr/local/lib:/usr/lib/postgresql/8.3/lib
+    MY_HOME=/home/xopun
+
+```bash
+$ source /etc/environment
+
+$ echo $MY_HOME
+# Output: /home/xopun
+```
+
+#### Second way
+
+```bash
+$ sudo vim /etc/environment
+```
+
+then,
+
+    # /etc/profile.d/new-env.sh
+
+    export MY_HOME=/home/xopun
+
+```bash
+$ source /etc/profile
+
+$ echo $MY_HOME
+# Output: /home/xopun
+```
+
 
