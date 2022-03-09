@@ -67,6 +67,7 @@ Also, if you want to get information about the RAM usage in the system, then exe
     $ wget -O install stats.cloudcone.sh && bash install some-random-string
     # It will be different on every instances. The random string will be provided to you by cloudcone.
 
+
 #### Changing Date Time
 
 To set the timezone, run the following command:
@@ -109,6 +110,7 @@ To install nginx, run the following command in terminal:
 ```bash
 $ sudo apt install nginx
 ```
+
 
 #### Setting up nginx as webserver for nextjs/gatsby
 
