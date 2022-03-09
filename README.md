@@ -9,6 +9,18 @@
 - [Installing pm2](#installing-pm2)
 - [Cloning repo](#cloning-repo)
 - [Environment variables](#environment-variables)
+- [Bash script for upload](#bash-script-for-upload)
+- [SSL via Let'sEncrypt](#ssl-via-lets-encrypt)
+- [Cron](#cron)
+    - [Purpose](#purpose)
+    - [crontab](#crontab)
+    - [cron schedule format](#cron-schedule-format)
+    - [Mailing the output of the cron job](#mailing-the-output-of-the-cron-job)
+    - [Test the setup](#test-the-setup)
+- [Copy files via scp](#copy-files-via-scp)
+    - [Creating ssh connection between two servers](#creating-ssh-connection-between-two-servers)
+    - [Copy files via SCP](#copy-files-via-scp)
+
 
 <a name='installing-the-os'></a>
 
@@ -339,5 +351,220 @@ $ source /etc/profile
 $ echo $MY_HOME
 # Output: /home/xopun
 ```
+
+## Bash script for upload
+
+You can create a script file in order to make the pulling from the github server easier. The below file will stop the pm2 gatsby app > pull the changes from the github code base > build the gatsby dispatch > restart the pm2 app .
+
+```bash
+
+#!/bin/bash
+
+YELLOW='\033[1;33m'
+GREEN='\033[1;32m'
+NC='\033[0m' # No Color
+
+clear
+echo -e "\n\n${YELLOW}--Adding git files--${NC}\n"
+git add .
+echo -e "${YELLOW}--Commiting git files--${NC} \n"
+git commit -m "automated upload"
+
+echo -e "\n${YELLOW}--Pushing to Git Repository--${NC} \n"
+RESULT=`git push 2>&1`
+
+echo -e "${GREEN}Message: ${RESULT} \n\n"
+
+if [ "$RESULT" = "Everything up-to-date" ]
+then
+    clear
+    echo -e "\n\n -- Since everything is up-to-date, no need to connect to the server!--\n"
+    echo -e "exiting....\n"
+    exit 1
+fi
+
+echo -e "\n-------${GREEN}Connecting to the server-------${NC}\n"
+ssh user@your_site.com <<EOF
+
+echo -e "\n${GREEN}-------You are right now in cloudcone server and directory will be changed to /srv/gatsby------- ${NC}\n"
+
+cd /srv/gatsby
+
+echo -e "\n${GREEN}-------Stopping the gatsby application pm2 demon process....------- ${NC}\n"
+
+pm2 stop gatsby
+
+echo -e "\n${GREEN}-------pulling the branch from git------- ${NC}\n"
+
+git pull
+
+echo -e "\n\n${GREEN}-------building the gatsby build------- ${NC}\n"
+
+gatsby build
+
+echo -e "\n${GREEN}-------Starting the gatsby application pm2 demon process------- ${NC}\n"
+pm2 start gatsby
+
+EOF
+
+echo -e "\n${YELLOW}-------Finished!!!!------- ${NC}\n"
+
+```
+
+By this, you can run the codes automatically with just single script.
+
+you can run this script by typing bash script.sh
+
+
+## SSL via Let'sEncrypt
+
+#### Installing certbot
+
+Goto https://certbot.eff.org/lets-encrypt/ubuntufocal-nginx (opens new window)for documentation.
+
+```bash
+$ sudo snap install --classic certbot #Install the certbot
+$ sudo certbot --nginx #Auto Configuration
+
+```
+This will enable the SSL version of your site.
+
+#### Redirect all http requests to https
+
+Add the following in `/etc/nginx/sites-enabled/default`
+
+    server {
+        listen 80 default_server;
+
+        server_name _;
+
+        return 301 https://$host$request_uri;
+    }
+
+#### Reinstalling all the certificates after expiration
+
+If the certificates are due expire, you can extend it via
+
+    certbot
+
+And then follow the onscreen instructions.
+
+## Cron
+
+#### Purpose
+
+cron is a great tool to schedule repetitive tasks. For example, let's assume we have to run the following script which is located at `/home/user/backup/dump.sh`
+
+```bash
+#!/bin/bash
+
+$ cd /home/backups
+$ mongodump --forceTableScan --uri "mongodb+srv://<username>:<password>@cluster0.a2zef.mongodb.net/<databasename>" --out `date +"%Y-%m-%d"` --gzip
+
+```
+
+*This file is an example of dumping the mongodb data into bson format.*
+
+#### Crontab
+
+Now let's look at how we can make it run after specific period each day so that we don't have to manually take back up.
+
+```bash
+$ crontab -e #it will open up the editor choice if open for the first time. Or else, it will open up the file.
+
+$ 0 3 * * * /bin/sh /home/user/backup/dump.sh #exit from nano/vim/other editor
+
+$ sudo cron restart
+
+```
+
+#### cron schedule format
+
+The format of the crontab file is:
+
+MIN HOUR DOM MON DOW CMD
+
+| Short | Description  | Values                      |
+| ----- | ------------ | --------------------------- |
+| MIN   | Minute field | 0 to 59                     |
+| HOUR  | Hour field   | 0 to 23                     |
+| DOM   | Day of Month | 1-31                        |
+| MON   | Month field  | 1-12                        |
+| DOW   | Day Of Week  | 0-6                         |
+| CMD   | Command      | Any command to be executed. |
+
+`crontab -l` to list all the cron jobs available for the user.
+
+`crontab -r` will remove all the cron jobs set by that user.
+
+#### Mailing the output of the cron job
+
+In order to send the cron output to via mail, you'll need to setup smtp client.
+
+```bash
+
+sudo apt update
+sudo apt install ssmtp mailutils
+
+```
+**Configure SMTP**
+
+Edit the config file:
+
+```
+sudo nano /etc/ssmtp/ssmtp.conf
+```
+
+Next, fill the appropriate information in the conf file
+
+    root=your@gmail.com #your mail id
+    mailhub=smtp.gmail.com #mail provider
+    FromLineOverride=YES
+    hostname=hostname #(you can put anything here)
+    AuthUser=your@gmail.com #your mail id
+    AuthPass=password #your app password generated from https://myaccount.google.com/apppasswords
+    FromLineOverride=YES
+    UseSTARTTLS=YES
+
+>**Note**
+>
+>The password of your gmail account ID won't work while sending mails.
+>
+>You'll require to generate one in Google app password (opens new window)>and you'll be able to login to the smtp via that app password only.
+
+#### Test the setup
+
+    echo "Here add your email body" | mail -s "Here specify your email subject" your_recepient_email@yourdomain.com
+
+## Copy files via SCP
+
+**Creating ssh connection between two servers and copying files between them**
+
+#### Creating ssh connection between two servers
+
+**Step 1:**
+
+goto `~/.ssh` folder and execute `ssh-keygen`
+
+**Step 2: Copy the public key to the other server**
+
+Execute the following to copy the public key to the remote machine
+
+    ssh-copy-id -i ~/.ssh/mykey user@host
+
+where mykey is the key you generated in step 1.
+
+**Note:**
+
+For the first time, you will have to use password in order to access to the shell in the remote machine.
+
+And done.
+
+#### Copy files via SCP
+
+In order to copy files from server to local,
+
+    $ scp -r user@xexample.com:/folder/backups/2021-01-21/ bak
+
 
 
