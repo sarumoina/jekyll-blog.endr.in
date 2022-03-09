@@ -5,6 +5,8 @@
     - [Changing Date Time](#changing-date-time)
 - [Installing node js](#installing-node-js)
 - [Installing nginx](#installing-nginx)
+- [Installing Yarn](#installing-yarn)
+- [Installing pm2](#installing-pm2)
 
 <a name='installing-the-os'></a>
 
@@ -187,4 +189,66 @@ Restart the server with `sudo systemctl restart nginx` after any modification yo
 
     $ sudo tail /var/log/nginx/error.log -n 200
 
+----
 
+## Installing Yarn
+
+To install yarn on the server, execute the following:
+
+```
+$ curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+$ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+$ sudo apt-get update && sudo apt-get install yarn
+```
+
+----
+
+## Installing pm2
+
+To install pm2, run the following:
+
+```
+$ yarn global add pm2
+```
+
+#### Adding to a repo and starting the pm2 process:
+
+In order to run the application in pm2 demon process, do the following for each applications as and when required.
+
+**Note: below codes should be run from the application folder where package.json resides.**
+
+**For nextjs:**
+
+```bash
+$ pm2 start yarn --name "nextjs" --interpreter bash -- start
+$ pm2 startup # It will enable pm2 to startup automatically when server restarts
+$ pm2 show nextjs #to check the status.
+```
+
+**For Gatsby**
+
+First, you'll have to install gatsby-cli
+
+    $ npm i -g gatsby-cli
+
+After that, start the pm2 demon process for Gatsby
+
+```bash
+$ pm2 start gatsby --name "gatsby" --interpreter bash -- serve
+$ pm2 startup # It will enable pm2 to startup automatically when server restarts
+$ pm2 show nextjs #to check the status.
+```
+
+**Note**
+
+While running the pm2 start nextjs you will get an error because you haven't run the build as of yet. Either run npm build or yarn build > in order to build the production
+
+#### Stopping the pm2 demon process
+
+In order to run the application after pushing the code to the github:
+
+```bash
+$ pm2 stop nextjs #[whatever the name of the app]
+$ yarn build
+$ pm2 start nextjs
+```
