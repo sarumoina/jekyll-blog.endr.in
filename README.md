@@ -20,6 +20,10 @@
 - [Copy files via scp](#copy-files-via-scp)
     - [Creating ssh connection between two servers](#creating-ssh-connection-between-two-servers)
     - [Copy files via SCP](#copy-files-via-scp)
+- [Installing PHP](#installing-php)
+    - [Install php8.0 fpm](#install-php80-fpm)
+    - [Testing the installation](#testing-the-installation)
+    - [Installing composer for PHP](#installing-composer-for-php)
 
 
 <a name='installing-the-os'></a>
@@ -565,6 +569,122 @@ And done.
 In order to copy files from server to local,
 
     $ scp -r user@xexample.com:/folder/backups/2021-01-21/ bak
+
+## Installing PHP
+
+#### Install php8.0 fpm
+
+First install the php8.0 fpm
+
+```bash
+$ sudo apt install software-properties-common
+$ sudo add-apt-repository ppa:ondrej/php
+$ sudo apt update
+$ sudo apt install php8.0-fpm
+
+# if you are installing laravel, then install these following too:
+
+$ sudo apt install openssl php-common php-curl php-json php-mbstring php-mysql php-xml php-zip
+
+# if you will use mongodb as driver later on (vide `composer require jenssegers/mongodb`) then install the mongodb drivers prior to that
+
+$ sudo apt install php-dev php-pear
+$ sudo pecl install mongodb
+
+# After installing the above, you can install jenssegers/mongodb via composer
+```
+
+#### Testing the installation
+
+You can test the installation via the following:
+
+```bash
+$ systemctl status php8.0-fpm
+```
+Now it is time to use php8.0-fpm to serve the php pages.
+
+> **Note:** 
+> check [nginx install](#installing-nginx) section in order to know how to setup nginx as webserver for php
+
+#### Installing composer for PHP
+
+To install the composer for php, you'll need to install the dependencies first.
+
+**installing the dependency**
+
+```bash
+$ sudo apt update
+$ sudo apt install php-cli unzip
+```
+
+**Download and install the composer**
+
+```bash
+$ cd ~
+$ curl -sS https://getcomposer.org/installer -o composer-setup.php
+```
+Using curl, fetch the latest signature and store it in a variable.
+
+```bash
+$ HASH=`curl -sS https://composer.github.io/installer.sig`
+```
+
+Following script should be exeuted to check if the script is safe to run.
+
+```bash
+$ php -r "if (hash_file('SHA384', 'composer-setup.php') === '$HASH') { echo 'Installer verified'; } 
+else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+```
+You should see the following:
+
+>Installer verified
+
+The following command will download and install Composer as a system-wide command named composer, under `/usr/local/bin`:
+
+```bash
+$ sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
+```
+
+You should get the following output:
+
+>All settings correct for using Composer Downloading...
+>
+>Composer (version 1.10.5) successfully installed to: /usr/local/bin/composer Use it: php /usr/local/bin/composer
+
+To test your installation, run the composer:
+
+```bash
+$ composer
+```
+
+You should get the following:
+
+```
+   ______
+  / ____/___  ____ ___  ____  ____  ________  _____
+ / /   / __ \/ __ `__ \/ __ \/ __ \/ ___/ _ \/ ___/
+/ /___/ /_/ / / / / / / /_/ / /_/ (__  )  __/ /
+\____/\____/_/ /_/ /_/ .___/\____/____/\___/_/
+                    /_/
+Composer version 1.10.5 2020-04-10 11:44:22
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help                     Display this help message
+  -q, --quiet                    Do not output any message
+  -V, --version                  Display this application version
+      --ansi                     Force ANSI output
+      --no-ansi                  Disable ANSI output
+  -n, --no-interaction           Do not ask any interactive question
+      --profile                  Display timing and memory usage information
+      --no-plugins               Whether to disable plugins.
+  -d, --working-dir=WORKING-DIR  If specified, use the given directory as working directory.
+      --no-cache                 Prevent use of the cache
+  -v|vv|vvv, --verbose           Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+...
+```
 
 
 
