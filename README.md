@@ -1,7 +1,9 @@
 ## Cheatsheet
 
 - [Installing the OS](#installing-the-os)
-    - [Setting up SSH keys](#ssh-keys)
+    - [Setting up SSH keys](#setting-up-ssh-keys)
+    - [Changing Date Time](#changing-date-time)
+- [Installing node js](#installing-node-js)
 
 <a name='installing-the-os'></a>
 
@@ -42,4 +44,38 @@ Also, if you want to get information about the RAM usage in the system, then exe
 
     $ wget -O install stats.cloudcone.sh && bash install some-random-string
     # It will be different on every instances. The random string will be provided to you by cloudcone.
+
+#### Changing Date Time
+
+To set the timezone, run the following command:
+
+**Note**
+
+If you want to get a list of time-zones available, you can use `$ timedatectl list-timezones` You can also use grep in order to narrow it down such as `$ timedatectl list-timezones | grep Asia/Kolkata`
+
+
+## Installing Node js
+
+In order to run the full stack server, at first, you will have to install nodejs. At the time of writing this article, nodejs is at version 14.0
+
+```bash
+# Using Ubuntu
+$ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
+```
+This will install nodejs 14.0 in your server.
+
+**Caution**
+
+if executing sudo apt update returns with an error, then goto the cloudcone control panel > Firewall > Accept. It will update the packages without any hiccups after that
+
+**Downgrade NodeJS:**
+
+If you want to downgrade to older version then you can do it via the following:
+
+```bash
+$ npm install -g n   # Install n globally
+$ n 14.17.0          # Install and use v0.10.33
+```
+
 
