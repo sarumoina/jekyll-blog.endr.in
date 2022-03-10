@@ -49,7 +49,7 @@ You'll require SSH keys in order to prevent logging in to computer with a passwo
 
 **In your local computer:**
 
-```bash
+```console
 $ ssh-keygen
 # Follow the onscreen directions in order to generate the public and the private pair
 $ cat YOUR_KEY.pub
@@ -65,48 +65,59 @@ Now it is time to login to the server.
 
 Open the terminal and type the following:
 
-    ssh root@YOUR_IPV4_IP
+```console
+ssh root@YOUR_IPV4_IP
+```
 
 It will ask for your password which will be provided to you in the registered mail. Enter the password. Now it is time to install the SSH keys.
 
-    # STEP 2: INSTALL THE SSH KEY
-    $ curl -o cc-ikey -L web.cloudc.one/sh/key && sh cc-ikey some-random-key #it will be different for you.
+```console
+# STEP 2: INSTALL THE SSH KEY
+$ curl -o cc-ikey -L web.cloudc.one/sh/key && sh cc-ikey some-random-key #it will be different for you.
+```
 
 Also, if you want to get information about the RAM usage in the system, then execute the following in the terminal.
 
-    $ wget -O install stats.cloudcone.sh && bash install some-random-string
-    # It will be different on every instances. The random string will be provided to you by cloudcone.
+```console
+$ wget -O install stats.cloudcone.sh && bash install some-random-string
+# It will be different on every instances. The random string will be provided to you by cloudcone.
+```
 
 
 #### Changing Date Time
 
 To set the timezone, run the following command:
 
+<div class="notification is-info is-light">
 **Note**
 
 If you want to get a list of time-zones available, you can use `$ timedatectl list-timezones` You can also use grep in order to narrow it down such as `$ timedatectl list-timezones | grep Asia/Kolkata`
+</div>
 
 
 ## Installing Node js
 
 In order to run the full stack server, at first, you will have to install nodejs. At the time of writing this article, nodejs is at version 14.0
 
-```bash
+```console
 # Using Ubuntu
 $ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 $ sudo apt-get install -y nodejs
 ```
 This will install nodejs 14.0 in your server.
 
+<div class="notification is-warning is-light">
 **Caution**
 
 if executing sudo apt update returns with an error, then goto the cloudcone control panel > Firewall > Accept. It will update the packages without any hiccups after that
+
+</div>
 
 **Downgrade NodeJS:**
 
 If you want to downgrade to older version then you can do it via the following:
 
-```bash
+```console
 $ npm install -g n   # Install n globally
 $ n 14.17.0          # Install and use v0.10.33
 ```
