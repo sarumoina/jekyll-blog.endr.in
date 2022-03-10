@@ -1,3 +1,8 @@
+---
+title: Cheatsheet
+layout: default
+---
+
 ## Cheatsheet
 
 - [Installing the OS](#installing-the-os)

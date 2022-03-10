@@ -1,7 +1,6 @@
 ---
 layout: default
-title: 'title'
-permalink: '/title'
+title: understanding
 ---
 
 This is to understand jekyll
