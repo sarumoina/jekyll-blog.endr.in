@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 'Understanding Jekyll'
-permalink: /blog/:title
 ---
 
 This is to understand jekyll
