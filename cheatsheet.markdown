@@ -89,6 +89,7 @@ $ wget -O install stats.cloudcone.sh && bash install some-random-string
 To set the timezone, run the following command:
 
 <div class="notification is-info is-light">
+
 **Note**
 
 If you want to get a list of time-zones available, you can use `$ timedatectl list-timezones` You can also use grep in order to narrow it down such as `$ timedatectl list-timezones | grep Asia/Kolkata`
@@ -107,6 +108,7 @@ $ sudo apt-get install -y nodejs
 This will install nodejs 14.0 in your server.
 
 <div class="notification is-warning is-light">
+
 **Caution**
 
 if executing sudo apt update returns with an error, then goto the cloudcone control panel > Firewall > Accept. It will update the packages without any hiccups after that

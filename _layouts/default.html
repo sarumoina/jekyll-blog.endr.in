@@ -15,7 +15,21 @@
         <section class="section">
             <div class="container">
                 <div class="content">
-                    {{ content }}
+                    <div class="columns">
+                        <div class="column is-9">
+                            {{ content }}
+                        </div>
+                        <div class="column is-3">
+                            <h4>Posts</h4>
+                            <ul>
+                                {% for post in site.posts %}
+                                  <li>
+                                    <a href="{{ post.url }}">{{ post.title }}</a>
+                                  </li>
+                                {% endfor %}
+                              </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="content has-text-centered" style="padding: 2em;">
