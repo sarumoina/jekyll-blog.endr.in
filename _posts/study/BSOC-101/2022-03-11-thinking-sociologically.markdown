@@ -19,7 +19,7 @@ In short, **Bauman** emphasizes role played by power while **Mills** look toward
 
 ## Sociological methods:
 
-Mills (1959) concept of “abstracted empiricism[^1]” posits that empirical studies[^2] mostly follow a set pattern of collecting data with conventional styles of collecting them, which then are codified[^3]. 
+Mills (1959) concept of “**abstracted empiricism**[^1]” posits that **empirical studies**[^2] mostly follow a set pattern of collecting data with conventional styles of collecting them, which then are codified[^3]. 
 
 > **Limitation of this process:** 
 >
