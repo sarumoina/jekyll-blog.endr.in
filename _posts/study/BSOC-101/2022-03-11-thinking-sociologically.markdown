@@ -21,7 +21,21 @@ In short, **Bauman** emphasizes role played by power while **Mills** look toward
 
 Mills (1959) concept of “abstracted empiricism[^1]” posits that empirical studies[^2] mostly follow a set pattern of collecting data with conventional styles of collecting them, which then are codified[^3]. 
 
+> **Limitation of this process:** 
+>
+> most studies involving the collection and analysis of public opinion, look into the aspect of how public opinion are mapped and collected as data, but **they ignore the process of getting the data or the process by which public opinion is formed.**
+
+**Mills** work may hold true only for US and western countries. What is important is that in the abstracted empirical style, what is needed to be studied has not been given consideration, and the emphasis has been on method rather than content of study and also its relevance for being studied.
+
+The **Abstracted empiricist** is more concerned with the philosophy of science, the Scientific Method, rather than what he studies is all about.
+
+_Mills opposition to abstracted empiricism was based on its preoccupation with method and its consequent lack of substantive propositions and theories. Abstracted empiricists, according to Mills, project themselves as scientists, and their approach as akin to the scientific procedures of natural science. This lead to the fetishism of method, an obsession with ‘reliability’, and more concern with the philosophy of science than with the social research study itself._ [source](https://www.qualityresearchinternational.com/socialresearch/abstractedempiricism.htm)
+
+
+
 ----
+
+_Footnotes:_
 
 [^1]: In philosophy, empiricism is a theory that states that knowledge comes only or primarily from sensory experience. In other words, the theory that all knowledge is based on experience derived from the senses. 
 
