@@ -1,9 +1,9 @@
 ---
 title: Cheatsheet
-layout: default
+layout: post
 ---
 
-## Cheatsheet
+
 
 - [Installing the OS](#installing-the-os)
     - [Setting up SSH keys](#setting-up-ssh-keys)
@@ -37,7 +37,6 @@ layout: default
 - [Installing Symfony](#installing-symfony)
 
 
-<a name='installing-the-os'></a>
 
 #### Installing the OS
 
