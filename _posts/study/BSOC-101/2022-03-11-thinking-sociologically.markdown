@@ -69,6 +69,26 @@ The _analyst_ can see the link between **history** and the **individual**. They 
 **Together and apart:**
 
 
+#### Sociology and other disciplines: 
+
+**Mills: Types of Practicality and the Bureaucratic Ethos** Mills has time and time implied that, the increasing _illiberalism_ of society has instead of reforming the society in 19yj dentury, now it tries to serve a managerial elite who maintains the society further to exploit it even more. Today, Social science is ureaucratic: it serves the goals of bureaucracy at the same time that it is done within its own bureaucratic setting. 
+
+Mills breaks down this “bureaucratic development” in sociology into five main features
+
+- Standardization of social inquiry: he methods sociologists are using are increasingly identical to each other
+
+- research institutions systematized: research institutions have become systematized as well, with workflows that can carry out the work of polling that sociologists now do. Instead of cultivating scholars, universities become training centers that produce pollsters.
+
+- Change in mental habits: scholars themselves change their mental habits. Instead of thinking about social structure, they think about the specific task at hand, and original and creative thought is diminished.
+
+- studies now serve bureaucratic means: Instead of social science providing the public with information, it now caters to “clients,” usually administrators who want to make their institutions more efficient.
+
+- social science increases social domination: by giving bureaucracy these tools, the managerial elite are empowered to control society more effectively.
+
+In short, What all this means is that social science comes into line with the dominant social structure. Instead of critiquing or even describing the current state of affairs, social science perpetuates it. In turn, social science can’t be counted on to help society transform. It can’t even be counted on to give the public (as opposed to private clients) useful information. Social science is no longer autonomous, and therefore it can’t help the public reform society. It serves domination, rather than disrupting it.
+
+[Source: www.gradesaver.com](https://www.gradesaver.com/the-sociological-imagination/study-guide/summary-chapters-5--6)
+
 
 
 
