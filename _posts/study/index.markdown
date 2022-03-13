@@ -1,6 +1,7 @@
 ---
 title: 'Study > Index'
 layout: post
+permalink: '/study'
 ---
 
 - BSOC-101
