@@ -3,7 +3,6 @@ title: 'Archive'
 layout: post
 ---
 
-<span class="title is-size-4">Posts</span>
 <ul>
     {% for post in site.posts %}
       <li>
