@@ -25,16 +25,9 @@
                         <div class="column is-3">
                             <span class="title is-size-4">Pages</span>
                             <ul>
+                                <li><a href="/study" class="is-capitalized">Study</a></li>
                                 <li><a href="/cheatsheet" class="is-capitalized">cheatsheet</a></li>
-                            </ul>
-                            <span class="title is-size-4">Posts</span>
-                            <ul>
-                                {% for post in site.posts %}
-                                  <li>
-                                    <a class="is-capitalized" href="{{ post.url }}">{{ post.title }}</a>
-                                  </li>
-                                {% endfor %}
-                              </ul>
+                            </ul>                           
                         </div>
                     </div>
                 </div>
@@ -42,7 +35,10 @@
             <div class="content has-text-centered" style="padding: 2em;">
                 <p>
                     <a href="https://blog.endr.in">blog.endr.in</a> is a subsidiary of endr org and the content of this site is licensed under CC attribution. 
-                  </p>
+                </p>
+                <p class="is-size-6">
+                    The content available on this site are for educational purpose only. If you have sole right to a portion/whole, then kindly write to use at contact@endr.in for taken down of contact. 
+                </p>
             </div>
         </section>
         <style>

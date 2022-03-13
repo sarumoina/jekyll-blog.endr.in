@@ -41,7 +41,19 @@ To illustrate Mills’s viewpoint, let’s use our sociological imaginations to 
 
 >**Trap**: is referring to the social changes that occur which affect the ordinary man — certain external influences which transcend the internal human spaces, and both are inter-related. But people are unable to decipher that happenings in the world outside have a direct effect on the everyday and make them what they are.
 
-Thus human agency is limited by where we are born and what happens outside of our immediate social context. Thus the sociological imagination is constructed out of historical circumstances and values that are received.
+Thus human agency is limited by where we are born and what happens outside of our immediate social context. Thus the sociological imagination is constructed out of historical circumstances and values that are received. When people come in touch with other societies their ability or willingness is conditioned by information received and not actual circumstances. **Thus reason is often overridden by values in the sociology of everyday life.**
+
+#### Comparative method:
+
+The comparative method is where the researcher collects data about different social groups (eg working-class; middle-class and upper-class) and then compares one group with another to identify what is evident in one group but not another. [source](https://sociologytwynham.com/2015/01/05/the-comparative-method/)
+
+The _analyst_ can see the link between **history** and the **individual**. They enable the individual to understand his/her experiences in that particular period and calculate their chances in life by looking at other individual in similar circumstances. The special ability of the sociologists is to connect the personal to the larger context both historically and in the present circumstances.
+
+
+#### Sociological Concepts:
+
+- **Group:** Individuals can not function as an isolated system as they are born in one and it is is the group that gives identity/meaning of existence to that person. But on the downside, groups often restrains an individual on some other aspects. Hence, social groups can act both as enabler and constrainer at the same time. It is social knowledge that we gathered from the group ultimately contributes to the forming of values.
+
 
 
 
