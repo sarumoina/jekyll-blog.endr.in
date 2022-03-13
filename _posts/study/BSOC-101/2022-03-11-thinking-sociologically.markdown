@@ -54,7 +54,19 @@ The _analyst_ can see the link between **history** and the **individual**. They 
 
 - **Group:** Individuals can not function as an isolated system as they are born in one and it is is the group that gives identity/meaning of existence to that person. But on the downside, groups often restrains an individual on some other aspects. Hence, social groups can act both as enabler and constrainer at the same time. It is social knowledge that we gathered from the group ultimately contributes to the forming of values.
 
+- **Socialization:** The group socializes the self so as to be capable of living in society. There are two types of _Socialization_
 
+    - **Primary Socialization:** It enables the individual to develop the self's intentions and expectations. 
+    - **Seondary Socialization:** Pattial shift from what the individual used to be to adapt to the changes in the surrounding environment. 
+
+- **In-Group & Out- Group:** As we grow in life, with some people, the bond becomes stronger over time and hence, we grow closer while with some other persons, we just maintian nothing but a functional relationship. From this concept, the in-group and out-group concepts do arise. 
+
+    - **In-Group:** e.g. family, friendship etc. 
+    - **Outgroup**
+
+**Stranger:**
+
+**Together and apart:**
 
 
 
