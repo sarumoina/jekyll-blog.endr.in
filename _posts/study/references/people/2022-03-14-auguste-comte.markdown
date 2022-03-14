@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pioneers of Sociology'
+title: 'Auguste Comte'
 permalink: '/study/reference/people/auguste-comte'
 ---
 
@@ -11,6 +11,8 @@ He is regarded as the **Father of Sociology**
 - Positive Philosophy (1839)
 
 - His definition of Sociology is: _subject to natural and invariable laws, the discovery of which is the object of investigation._
+
+- He gave most importance towards the scientific method. 
 
 Comte offered an account of social evolution, proposing that society undergoes three phases in its quest for the truth according to a general law of three stages. These stages are: 
 
@@ -27,5 +29,20 @@ Comte offered an account of social evolution, proposing that society undergoes t
  Comte's law of three stages was one of the first theories of **social evolutionism**.
 
 [source: wikipedia](https://en.wikipedia.org/wiki/Auguste_Comte)
+
+**Comte proposed sociology to be studied in two parts:**
+
+- the social statics : deals with major institutions of society such as family, economy or polity. (_currently social statics are called as "social structure and function"_)
+- the social dynamics : focusess on whole societies as a unit of analysis and revelad how they have developed and changed through the course of time. (_currently social dynamics are called as "social change and progress"_)
+
+
+
+
+
+----
+
+_ref:_
+
+- Principles of Sociology with an introduction to Sociological thought by C N Shankar Rao. Page 10-11
 
 
