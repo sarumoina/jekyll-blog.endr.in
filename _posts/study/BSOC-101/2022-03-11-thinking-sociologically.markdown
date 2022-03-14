@@ -31,7 +31,7 @@ The [**Abstracted empiricist**](/study/reference/abstract-empiricism) is more co
 
 **Paul F. Lazersfeld** has explained how abstracted empiricism can be used as a style of work and regards the “**sociologist as the methodologist of all social sciences**”. Thus empiricism becomes the hallmark of sociology as compared to philosophy or epistemology. Rather than thinking about why things happen, sociologists try to focus on what is happening and how it is happening.
 
-_Mills opposition to abstracted empiricism was based on its preoccupation with method and its consequent lack of substantive propositions and theories. Abstracted empiricists, according to Mills, project themselves as scientists, and their approach as akin to the scientific procedures of natural science. This lead to the fetishism of method, an obsession with ‘reliability’, and more concern with the philosophy of science than with the social research study itself._ [source](https://www.qualityresearchinternational.com/socialresearch/abstractedempiricism.htm)
+_Mills opposition to abstracted empiricism was based on its preoccupation with method and its consequent lack of substantive propositions and theories. Abstracted empiricists, according to Mills, project themselves as scientists, and their approach as akin to the scientific procedures of natural science. This lead to the fetishism of method, an obsession with ‘reliability’, and more concern with the philosophy of science than with the social research study itself._ [source: qualityresearchinternational](https://www.qualityresearchinternational.com/socialresearch/abstractedempiricism.htm)
 
 #### Sociology in everyday life:
 
@@ -45,7 +45,7 @@ Thus human agency is limited by where we are born and what happens outside of ou
 
 #### Comparative method:
 
-The comparative method is where the researcher collects data about different social groups (eg working-class; middle-class and upper-class) and then compares one group with another to identify what is evident in one group but not another. [source](https://sociologytwynham.com/2015/01/05/the-comparative-method/)
+The comparative method is where the researcher collects data about different social groups (eg working-class; middle-class and upper-class) and then compares one group with another to identify what is evident in one group but not another. [source: sociologytwynham.com](https://sociologytwynham.com/2015/01/05/the-comparative-method/)
 
 The _analyst_ can see the link between **history** and the **individual**. They enable the individual to understand his/her experiences in that particular period and calculate their chances in life by looking at other individual in similar circumstances. The special ability of the sociologists is to connect the personal to the larger context both historically and in the present circumstances.
 
@@ -64,9 +64,9 @@ The _analyst_ can see the link between **history** and the **individual**. They 
     - **In-Group:** e.g. family, friendship etc. 
     - **Outgroup**
 
-**Stranger:**
+- **Stranger:**
 
-**Together and apart:**
+- **Together and apart:**
 
 
 #### Sociology and other disciplines: 
@@ -90,7 +90,19 @@ In short, What all this means is that social science comes into line with the do
 [Source: www.gradesaver.com](https://www.gradesaver.com/the-sociological-imagination/study-guide/summary-chapters-5--6)
 
 
+**Mills: Types of Practicality and the Bureaucratic Ethos** (From IGNOU textbook)
 
+Mills has crticizied the approach towards sociology in many different ways. The problem begins with objectivity and perspective. If the scholar has a biased opinion, then all the research that he will conduct, will also be result of a biased persepctive. There is also a case of different results getting yielded by taking different approaches even without natural bias towards values. 
+
+To understand the deeper elements of social issues, one should study it without involving any _conflicting values_ which is impossible to achieve since one way or the other, people tend to be biased towards certain area of the spectrum whether conciously or sub conciously. 
+
+As Hume famously remarked that “we cannot deduce how we ought to act from what we believe is” and nor “can we deduce how anyone else ought to act from how we believe we ought to act”. _Openness to accepting a multitude of opinions may also be seen as an aspect of the sociological mode of thinking._
+
+These days’ studies are mostly undertaken to please the power holders and those who control the resources for the conduct of research—military, social workers, big corporations and the prison, and the market for such research is also increasing. There is also research done for ideological reasons, such as to prove or disprove a particular political standpoint, feminism or environmentalism for example.
+
+The political meanings and administrative uses of social sciences have seen a shift and have been overshadowed by new manipulative methods that can be termed as bureaucratic social science. Such research work may involve funds being provided and facilities made available only to prove something that privileges the funding institution or agency. Applied sociologist are concerned about only what specific clients want to know — a shift from public to specific. Institutions with power can train sociologists with the tools and techniques to do research without the philosophical grounding that mkes for ethical and moral evaluation. 
+
+The issue here is that social science should be a ‘publicly responsible enterprise’ for there ages all chances of it being expropriated. There are chances that researchers lose their individuality while working in a bureaucratic setup.
 
 
 ----
