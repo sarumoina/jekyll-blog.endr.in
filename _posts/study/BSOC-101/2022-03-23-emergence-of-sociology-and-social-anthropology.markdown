@@ -16,7 +16,14 @@ But these changes had both positive and negative aspects along with it. Since, i
 **The Enlighten period/Age of Reasons:**
 
 During the 18th century, due to advancement of science, there brought changes of how people think which has paved the path for the enlighten period or the age of reasons. The existing beliefs were replaces by new ones which were based upon logic and reasons. Most prominent thinkers in this period are – 
+
 - Charles Montesquieu
 - Jean Jacques Rousseau
+
 This period shifted the society from values that were deemed to integrate to be tempered with and brought a new world of different values. Individuals started to believe in more rational and logical thoughts. As the wave of rational thoughts came in to play, nothing has become infallible and every entity became susceptible to criticism according to the new standard that this era has brought. Thus human started to realize their infinite potential which was later translated in to industrial revolution which marked a significant millstone in human history. 
 
+**The Scientific revolution:**
+
+The Scientific revolution is marked by *a new attitude towards man and nature*. During this time, people started to look at natural objects in a more observed manner and started various experimentation in order to understand various phenomenon in a better way. For example, Copernican revolution has lead to shift from *geocentric* model where the field of astronomy centered around earth into *heliocentric* model where Sun takes the center place. The discovery of gravitational force by Isac Newton was another milestone that was achieved during this era which has brought another dimension in the world of physics. Though, it was Darwins *theory of evolution* which has challenged the age old belief of biblical theory of genesis. During this era, people started to question the old idologies and started to use reason/logic in order to understand their surrounding whether it was an animate or inanimate entitiy. 
+
+This has also lead to urgency of using scientifc method in order to understand the human society. Hence, though it wasn't regarded as acedmic discpline at that time, sociology already came in to existence. 
