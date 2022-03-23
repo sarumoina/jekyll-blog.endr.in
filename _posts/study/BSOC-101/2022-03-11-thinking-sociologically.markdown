@@ -102,8 +102,17 @@ These days’ studies are mostly undertaken to please the power holders and thos
 
 The political meanings and administrative uses of social sciences have seen a shift and have been overshadowed by new manipulative methods that can be termed as bureaucratic social science. Such research work may involve funds being provided and facilities made available only to prove something that privileges the funding institution or agency. Applied sociologist are concerned about only what specific clients want to know — a shift from public to specific. Institutions with power can train sociologists with the tools and techniques to do research without the philosophical grounding that mkes for ethical and moral evaluation. 
 
-The issue here is that social science should be a ‘publicly responsible enterprise’ for there ages all chances of it being expropriated. There are chances that researchers lose their individuality while working in a bureaucratic setup.
+The issue here is that social science should be a ‘publicly responsible enterprise’ for there ages all chances of it being expropriated. There are chances that researchers lose their individuality while working in a bureaucratic setup. The control that the bureaucracy has on the values and ideas of precisely anything that can be thought of is also contributive to a control of history. The use of language is also curtailed and prescribed. The bureaucratic control over sociological research is thus counter-productive of intellectual growth as well as against social justice.
 
+**Mills: Uses of History:**
+
+In case of sociological subject invovled with history, the fact checking of historical facts are of utmost importance. Adding to the complexity, researchers in different societies might be influenced by different factors which may change their perspective to look at things. For example, a sociologist scholar in India might be interested more about caste system even though he might have his personal own biaseness. Hence, if we need to assume that historical facts can be distorted, we won't be wrong completely as it probably happens more often. 
+
+#### Sociology and reality:
+
+**Mills: The human variety**
+
+Since there are different social system with different structure and complexity, while comparing them, one has to keep in mind that there should be an approached with unbiased nature as anything other than unbiased perspective will result in distorted results. 
 
 ----
 
