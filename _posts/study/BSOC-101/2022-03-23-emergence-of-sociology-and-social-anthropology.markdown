@@ -27,3 +27,32 @@ This period shifted the society from values that were deemed to integrate to be 
 The Scientific revolution is marked by *a new attitude towards man and nature*. During this time, people started to look at natural objects in a more observed manner and started various experimentation in order to understand various phenomenon in a better way. For example, Copernican revolution has lead to shift from *geocentric* model where the field of astronomy centered around earth into *heliocentric* model where Sun takes the center place. The discovery of gravitational force by Isac Newton was another milestone that was achieved during this era which has brought another dimension in the world of physics. Though, it was Darwins *theory of evolution* which has challenged the age old belief of biblical theory of genesis. During this era, people started to question the old idologies and started to use reason/logic in order to understand their surrounding whether it was an animate or inanimate entitiy. 
 
 This has also lead to urgency of using scientifc method in order to understand the human society. Hence, though it wasn't regarded as acedmic discpline at that time, sociology already came in to existence. 
+
+**French Revolution**
+
+The French Revolution (1789) has brought the concepts of 
+
+- liberty
+- fraternity
+- equality
+
+Though this revolution is called french revolution due to its origin, its influence was not only limited to france or even europe but even distant countries were also influenced by the elements that french revolution has brought to the table. 
+
+During the period of enlightment, like any other nation, France had also entered into a phase where the thoughts of the people were changing and people started to believe that, anything can be explained by logic and reasons. 
+
+> Some of these thinkers were: 
+> - Montesquieu (1689-1755)
+> - Locke(1632-1704)
+> - Voltaire(1694-1778)
+> - Rousseau (1712-1778)
+
+The changes that were occuring in the age of enlightment led the society to go against the age old system of monarchy/feudalism and bring political changes based upon equality and hence liberal democracy was also implemented after the revolution. 
+
+Though, the revolution brought multiple positive aspects, all the people did not agree with the circumstances that it did create. During the revolution, there was chaos, anarchy and a sense of unstability prevailing in the surrounding and many writers voiced aginst this unstability in the society. Some of them wanted the society to return back where it was once as it was more peaceful. But soon others have realized that, the changes that already occured in the society has also changed the way how people think and hence it will be impossible to return to the previous state. 
+
+Hence, they tried to find new bases based upon the new ideas that has been brought by revolution in order to build a new world. Among these thinkers, the classical sociologist also made lots of contributions such as : 
+
+- Comte
+- Durkheim
+- Parsons
+
