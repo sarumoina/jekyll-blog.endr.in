@@ -63,7 +63,7 @@ The situation will improve in spite of a hard economy.
 Here word comparisons are used in order to compare between multiple different circumstances. 
 
 
-Define morpheme. What are the different types of morphemes? (300 words)
+**Define morpheme. What are the different types of morphemes? (300 words)**
 
 In the subject of morpheme, it can be defined as the smallest meaningful lexical item in a language. But that does not mean that a morpheme must be a word in order to get recognized as the smallest meaningful lexical item in a language. There are subtle differences between a word and a morpheme which does give them a distinguished identity. The difference between a word and a morpheme is that a morpheme may not stand alone in many instances whereas a word is sufficient to stand alone on its own. The field that studies morpheme is called morphology. 
 In every entity, it is built up of smaller functional units. For example, in the case of elements of the periodic table, the elements are made up of atoms which themselves consist of electrons, protons and neutrons. Similarly, scholars studying structures of a language also devised a way to recognize the building up of lexical terms of which, the morphemes are the smallest unit. It hence functions as the foundation of the language and the base of the syntax according to which the language grows on. Here syntax refers to the structure or arrangement of words that is defined in a language base upon which various words and sentences are joined together. Though it may feel similar, one shouldn’t confuse morphemes with words since they are both different in terms of lexical structure. 
@@ -72,11 +72,11 @@ In linguistics, the morphemes are further classified into two types which are:
 ●	Graphemes - the smallest unit of written language. 
 For example, the word “non perishable” consists of three morphemes: non, perish and able. It also has 5 syllables which does imply that morphemes are different from syllables.  Both non and able are examples of an affix, a morpheme attached prior to or following a base that can not function independently as a word. 
 
-What is derivational morphology? Give two examples of derivation from your mother tongue. (300 words)
+**What is derivational morphology? Give two examples of derivation from your mother tongue. (300 words)**
 
 Derivational morphology can be defined as the process where one word is changed into another. The process takes one word and then adds a prefix, suffix or infix to make a new word. For example, if we take the example of “national”, then adding a prefix or suffix will give us the following words: international and nationality.  The words that we have added here are called morphemes. Hence, the process itself is called derivational morphology where in the process, one word is changed into another one. There are many common morphemes which we use in day to day life conversation. For example, morphemes are used to convert nouns/adjectives/verbs into one another. There are different derivational morphology combinations which are used to convert nouns or verbs or even adjectives in others. Thus derivational morphology and morphemes play a crucial role in the English language. Due to the role that is played by morphemes in derivational morphology, it is possible to word from one class (such as noun or verb or adjective) into another by the use of suffixes or prefixes or infix of morphemes. For example, with the use of morphemes, “red” can be turned into “reddish”. The process of conversion of a verb or adjective into a noun is called “nominalization.” The process of nominalization is one of the key factors of the process of derivational morphology. Taking the example of “national” again, the adjective “national” can become the verb “nationality.” And then it can also be converted to “nationalization” which is a noun.  In these conversion; the suffixes or prefixes or infixes are playing a very important role. Thus morphemes are used greatly in such conversion of one word from one class to another and the whole process is known as derivational morphology. 
 
-Define noun phrase and discuss its structure giving examples. (300 words)
+**Define noun phrase and discuss its structure giving examples. (300 words)**
 
 A noun phrase can be defined as a phrase that has a noun as its head or performs the same grammatical function as noun. An indefinite pronoun can also take the place of the noun as the head of the phrase. The noun phrase is also called a nominal phrase. Noun phrases are very common cross - linguistically and they are probably the most frequently occuring phrase type. As it has been mentioned above, a noun phrase performs the same grammatical function as a noun. A noun phrase also contains modifiers which can come before or after the noun. It is also worth mentioning that a pronoun can also perform the function of the noun as the head. For example, the dog with fleas. The one with fleas. 
 In case of noun phrases, it needs to be mentioned that it is rare to find a noun functioning by itself. Most of the time, one will find nouns functioning in noun phrases. There are various examples one may take which can show the use of nouns in noun phrases with modifiers. For example, the soldier, my cousin, with the big nose. Like any noun, a noun phrase can function as a subject or object or as a complement within a sentence. For example, “singing in the bath relaxes me.” (here, the noun phrase is the subject of the verb relaxes) “I know the back streets”.  (here the noun phrase is the direct object of the verb know.)
@@ -88,7 +88,7 @@ What are prefixes and suffixes? Separate the prefixes and suffixes in the follow
 ●	Institutionalisation - _, Suffix: isation
 ●	Organisational - Prefix: _, Suffix: al
 
-Differentiate compound and complex sentences. How are they created ? (300 words)
+**Differentiate compound and complex sentences. How are they created ? (300 words)**
 
 There are various structures via which sentences can be formed in the English language. Out of these, compound and complex sentences form an integral part. 
 Compound sentences are those sentences in which two independent clauses are combined with coordinating conjunction. The coordinating conjunctions are words for example, “and'' or “but” which are used to combine the individual clauses. “I have a pet dog. His name is Jimmy.'' These are two individual sentences which can stand on their own without depending upon any other sentence to convey the meaning. These two sentences can be combined with coordinating conjunction e.g. “and'' and form a unified sentence such as “I have a pet dog and its name is Jimmy.” Thus forming a compound sentence. All of the clauses in the compound sentence are equally important, and coordinating conjunction does nothing to the importance of the clauses thus keeping the rank of both the sentences are the same. The purpose of coordinating conjunction is simply to combine the sentences. 
@@ -97,9 +97,9 @@ Thus, in compound sentences, the two combined sentences are independent and they
 
 
 
-Section C:
+#### Section C:
 
-How is human language different from animal communication? (500 words)
+**How is human language different from animal communication? (500 words)**
 
 The difference between human language and animal communication lies in the fact that, while animal communication is biological and inborn, human communication revolves around acquired knowledge, words, phrases which are not inborn but are taught. There are many different aspects in which differences between human language and animal communication can be seen. 
 Duality patterning: Human language consists of distinctive sounds also known as phonemes which are arbitrary in nature and don't carry any meaning on their own but humans combine them in different ways and create meaningful words which are also understood by others and thus paving the way to communicate with each other. But animals do not have such distinctive sounds and no concept of words which limits the message that they can convey. 
@@ -113,7 +113,7 @@ Ambiguity: Another difference between human communication and animal communicati
 
 Variety: Humans can combine the words, sounds in different ways and hence there are lots of varieties exists in human communication. The same thought or idea can be expressed in many different ways in human communication due to these varieties. But in Animals, no such variety exists and they express themselves in single ways only. 
 
-The mentalists questioned the principles of structuralism in mid 20th century. Discuss how this shift occurred in the study of language. Do you find any similarities between Chomsky’s ideas and that of Saussure? (500 words)
+**The mentalists questioned the principles of structuralism in mid 20th century. Discuss how this shift occurred in the study of language. Do you find any similarities between Chomsky’s ideas and that of Saussure? (500 words)**
 
 Structuralism, in linguistics, any one of several schools of 20th century linguistics committed to the structuralist principle that a language is a self contained relational structure, the elements of which derive their existence and their value from their distributions and oppositions in texts or discourse. The principle was first stated clearly, for linguistics, by the Swiss scholar Saussure. It was further developed in somewhat different directions by the Prague school and other European movements. 
 In the United States the term structuralism, or structural linguistics, has had much the same sense as it has had in Europe in relation to the work of Franz Boas and Edward Sapir and their followers. Nowadays though it is commonly used and in a narrow sense to refer to the so-called post - Bloomfieldian school of language analysis that follows the methods of Leonard Bloomfield developed after 1930. The study of sound systems (also known as phonology) and the study of word structure (also known as morphology) are their primary fields of interest. Little work on semantics has been done by structural linguists  because of their belief that the field is too difficult or elusive to describe.
@@ -122,7 +122,7 @@ However according to Saussure, it is important to understand three of his terms.
 Saussure points out that “speech” is individualized in that it is produced willfully and intellectually by a person, by way of “speaking.” Saussure also refers to “parole” as the “executie” side of speech - that which puts speech into practice. However, the way speech is used is determined through its society over time according to their language.  
 Language, although significant, is only one part of speech. It consists of a collection of conventions that have been adopted by a community in order to structure and organize the mass of disorganized “speech” we hold in our minds. Thus, “language” is developed and keeps on developing so members of any community can use and understand their particular “language.”
 
-What are the different kinds of language variations? Explain by giving examples. (500 words)
+**What are the different kinds of language variations? Explain by giving examples. (500 words)**
 
 The language variation is an aspect of any language which makes it unique. There are many different ways linguists categorize different varieties of a language. Some definitions refer to word usage and rules, or merely to vocabulary, while others refer to the way language adapts culturally. All of these terms however, can cover variations in grammar, vocabulary and pronunciation. For example, the following are the varieties of language variations. 
 Standard/polite/formal, Colloquial/informal, regional dialect, social dialect, lingua franca, pidgin, creole, vernacular, patois, lingo, jargon, slang etc. 
@@ -137,7 +137,7 @@ Thus different types of variations exist in the English language.
 
 
 
-The verb phrase is an important part of inflectional morphology. Discuss inflection through the verb phrase. (500 words)
+**The verb phrase is an important part of inflectional morphology. Discuss inflection through the verb phrase. (500 words)**
 
 Inflectional morphology can be defined as the study of the modification of words to fit into grammatical contexts. It includes the study of processes including affixation and vowel change that distinguish word forms in certain grammatical categories. Inflectional morphology differs from derivational morphology or word formation in that, inflection deals with changes made to the existing words and derivation deals with the creation of new words. 
 In the subject of inflectional morphology and derivational morphology, one essential component is morpheme which is pivotal in building up words. A morpheme is the smallest, meaningful, morphological unit in a language. This unit cannot be further divided or analyzed. There are two main types of morphemes out of which one is, inflectional morpheme and the other one is derivational morpheme. 
