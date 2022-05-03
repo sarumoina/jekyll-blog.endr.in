@@ -68,8 +68,8 @@ Here word comparisons are used in order to compare between multiple different ci
 In the subject of morpheme, it can be defined as the smallest meaningful lexical item in a language. But that does not mean that a morpheme must be a word in order to get recognized as the smallest meaningful lexical item in a language. There are subtle differences between a word and a morpheme which does give them a distinguished identity. The difference between a word and a morpheme is that a morpheme may not stand alone in many instances whereas a word is sufficient to stand alone on its own. The field that studies morpheme is called morphology. 
 In every entity, it is built up of smaller functional units. For example, in the case of elements of the periodic table, the elements are made up of atoms which themselves consist of electrons, protons and neutrons. Similarly, scholars studying structures of a language also devised a way to recognize the building up of lexical terms of which, the morphemes are the smallest unit. It hence functions as the foundation of the language and the base of the syntax according to which the language grows on. Here syntax refers to the structure or arrangement of words that is defined in a language base upon which various words and sentences are joined together. Though it may feel similar, one shouldn’t confuse morphemes with words since they are both different in terms of lexical structure. 
 In linguistics, the morphemes are further classified into two types which are:
-●	Phonemes - the smallest units of grammar recognizable by sound. 
-●	Graphemes - the smallest unit of written language. 
+ -	Phonemes - the smallest units of grammar recognizable by sound. 
+ -	Graphemes - the smallest unit of written language. 
 For example, the word “non perishable” consists of three morphemes: non, perish and able. It also has 5 syllables which does imply that morphemes are different from syllables.  Both non and able are examples of an affix, a morpheme attached prior to or following a base that can not function independently as a word. 
 
 **What is derivational morphology? Give two examples of derivation from your mother tongue. (300 words)**
@@ -83,10 +83,10 @@ In case of noun phrases, it needs to be mentioned that it is rare to find a noun
 The noun phrases can get more complicated depending upon the context. It’s not unusual for nouns and noun phrases to be embedded in the noun phrases. For example, in the sentence, “Every man of courage is a man of his word.”; here the courage and word both are nouns but they are not the head nouns of the phrases. 
 What are prefixes and suffixes? Separate the prefixes and suffixes in the following words: 
 
-●	Antiestablishmentarianism - Prefix: Anti, Suffix: ism
-●	Prenatal - Prefix: Pre, Suffix: al
-●	Institutionalisation - _, Suffix: isation
-●	Organisational - Prefix: _, Suffix: al
+ -	Antiestablishmentarianism - Prefix: Anti, Suffix: ism
+ -	Prenatal - Prefix: Pre, Suffix: al
+ -	Institutionalisation - _, Suffix: isation
+ -	Organisational - Prefix: _, Suffix: al
 
 **Differentiate compound and complex sentences. How are they created ? (300 words)**
 
