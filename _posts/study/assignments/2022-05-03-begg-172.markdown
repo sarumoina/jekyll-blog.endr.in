@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BEGG-172 Assignment'
-permalink: '/study/assignments/begg-172'
+permalink: '/study/assignments/begg-172.html'
 ---
 
 #### Section A:
