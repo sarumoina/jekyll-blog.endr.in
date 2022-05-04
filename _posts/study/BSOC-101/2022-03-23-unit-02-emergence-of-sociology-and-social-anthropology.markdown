@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Unit 02: Emergence of Sociology and Social Anthropology'
+permalink: '/study/bsoc-101/unit-02/emergence-of-sociology-and-social-anthropology.html'
 ---
 
 Sociology and social anthropology, though have come from different roots, both the subjects are very much interrelated as discipline. As academic discipline, both have emerged only in 19th century though without any demarcation, both the discipline existed in early centuries also. 

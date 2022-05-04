@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Unit 01: Thinking Sociologically'
+permalink: '/study/bsoc-101/unit-01/thinking-sociologically.html'
 ---
 
 #### Objectives
