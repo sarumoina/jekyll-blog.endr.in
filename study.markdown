@@ -4,8 +4,8 @@ layout: post
 ---
 
 - **BSOC-101**
-  - [Unit-01:Thinking Sociologically](/2022/03/11/thinking-sociologically.html)
-  - [Unit 02: Emergence of Sociology and Social Anthropology](/2022/03/23/emergence-of-sociology-and-social-anthropology.html)
+  - [Unit-01:Thinking Sociologically](/study/bsoc-101/unit-01/thinking-sociologically.htm)
+  - [Unit 02: Emergence of Sociology and Social Anthropology](/study/bsoc-101/unit-02/emergence-of-sociology-and-social-anthropology.html)
 
 ----
 
