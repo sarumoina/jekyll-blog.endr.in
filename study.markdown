@@ -3,10 +3,8 @@ title: 'Study Index'
 layout: post
 ---
 
-### Study material:
-
-- BSOC-101
-  - [Ubit-01:Thinking Sociologically](/2022/03/11/thinking-sociologically.html)
+- **BSOC-101**
+  - [Unit-01:Thinking Sociologically](/2022/03/11/thinking-sociologically.html)
   - [Unit 02: Emergence of Sociology and Social Anthropology](/2022/03/23/emergence-of-sociology-and-social-anthropology.html)
 
 ----
@@ -14,8 +12,8 @@ layout: post
 
 ### Assignments:
 
-- [**BEGAE-182**](/study/assignments/begae-182.html)
-- [**BEGG-172**](/study/assignments/begg-172.html)
+- [BEGAE-182: English communication skills](/study/assignments/begae-182.html)
+- [BEGG-172: Language and Linguistics](/study/assignments/begg-172.html)
 
 ----
 
