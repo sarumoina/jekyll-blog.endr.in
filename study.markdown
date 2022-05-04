@@ -14,6 +14,7 @@ layout: post
 
 - [BEGAE-182: English communication skills](/study/assignments/begae-182.html)
 - [BEGG-172: Language and Linguistics](/study/assignments/begg-172.html)
+- [BEVAE-181: Environmental studies](/study/assignments/bevae-181.html)
 
 ----
 
