@@ -8,6 +8,15 @@ permalink: '/study/reference/people/herber-spencer.html'
 
 British philosopher and sociologist, Herbert Spencer was a major figure in the intellectual life of the Victorian era. He was one of the principal proponents of evolutionary theory in the mid nineteenth century, and his reputation at the time rivaled that of Charles Darwin. Spencer was initially best known for developing and applying evolutionary theory to philosophy, psychology and the study of society — what he called his “synthetic philosophy” (see his A System of Synthetic Philosophy, 1862-93). Today, however, he is usually remembered in philosophical circles for his political thought, primarily for his defense of natural rights and for criticisms of utilitarian positivism, and his views have been invoked by ‘libertarian’ thinkers such as Robert Nozick.
 
+#### Important works:
+
+- [Social Statics: The Conditions Essential to Human Happiness (1850)](https://app.treasure.cloud/share/public/b39420432590f7efc21d6e00f9ba0e926cce5b79dd0b90810af69e1b075c867d) 
+- [Education (1854)](https://app.treasure.cloud/share/public/da1df3cb116ca0ec9a87c2653c82bd68e3afe3dea62dd9069cce639fe16ce8e1) 
+- The Principles of Psychology (1855)
+- The Principles of Sociology (1876-1896)
+- The Data of Ethics (1884)
+- The Man Versus the State (1884)
+
 #### Life:
 
 Spencer was born in Derby, England on 27 April 1820, the eldest of nine children, but the only one to survive infancy. He was the product of an undisciplined, largely informal education. His father, George, was a school teacher, but an unconventional man, and Spencer’s family were Methodist ‘Dissenters,’ with Quaker sympathies. From an early age, Herbert was strongly influenced by the individualism and the anti-establishment and anti-clerical views of his father, and the Benthamite radical views of his uncle Thomas. Indeed, Spencer’s early years showed a good deal of resistance to authority and independence.

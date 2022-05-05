@@ -14,12 +14,13 @@ For the purposes of this article, Durkheim’s strictly sociological thought wil
 
 #### Important works:
 
-- [Social Statics: The Conditions Essential to Human Happiness (1850)](https://app.treasure.cloud/share/public/b39420432590f7efc21d6e00f9ba0e926cce5b79dd0b90810af69e1b075c867d) 
-- [Education (1854)](https://app.treasure.cloud/share/public/da1df3cb116ca0ec9a87c2653c82bd68e3afe3dea62dd9069cce639fe16ce8e1) 
-- The Principles of Psychology (1855)
-- The Principles of Sociology (1876-1896)
-- The Data of Ethics (1884)
-- The Man Versus the State (1884)
+- The division of labor in society (1893)
+- The rules of Sociological method (1895)
+- Suicide: A study in Sociology (1897)
+- Collective and Individual Representations (1899)
+- Judgements of Reality and Judgements of Value (1911)
+- The elementary forms of the religious life (1912)
+- Professional Ethics and Civil morals
 
 
 
