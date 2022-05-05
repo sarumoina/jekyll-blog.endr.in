@@ -4,6 +4,10 @@ title: 'BEGG-172 Assignment'
 permalink: '/study/assignments/begg-172.html'
 ---
 
+![assignment](https://ik.imagekit.io/endr/BEGG_172_4_8j-Ac8_1S.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651718100711)
+
+![assignment](https://ik.imagekit.io/endr/BEGG_172_5_qzC-PexEC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651718100691)
+
 #### Section A:
 
 **Discuss Sapir-Whorf hypothesis. Do you agree with this theory? Give reasons for your answer. (300 words)**
