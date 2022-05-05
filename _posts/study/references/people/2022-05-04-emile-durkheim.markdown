@@ -12,6 +12,17 @@ When Durkheim began writing, sociology was not recognized as an independent fiel
 
 For the purposes of this article, Durkheim’s strictly sociological thought will be set aside to allow his contributions to philosophy to take prominence. These fall largely in the realms of the philosophy of religion, social theory, the philosophy of social science, hermeneutics, the philosophy of language, morality, metaethics, political theory, and epistemology. Durkheim’s deconstruction of the self, as well as his analysis of the crisis brought on by modernity and his projections about the future of Western civilization, also deserve significant consideration.
 
+#### Important works:
+
+- [Social Statics: The Conditions Essential to Human Happiness (1850)](https://app.treasure.cloud/share/public/b39420432590f7efc21d6e00f9ba0e926cce5b79dd0b90810af69e1b075c867d) 
+- [Education (1854)](https://app.treasure.cloud/share/public/da1df3cb116ca0ec9a87c2653c82bd68e3afe3dea62dd9069cce639fe16ce8e1) 
+- The Principles of Psychology (1855)
+- The Principles of Sociology (1876-1896)
+- The Data of Ethics (1884)
+- The Man Versus the State (1884)
+
+
+
 #### Life
 
 David Émile Durkheim was born in April 1858 in Épinal, located in the Lorraine region of France. His family was devoutly Jewish, and his father, grandfather, and great grandfather were all rabbis. Durkheim, however, broke with tradition and went to the École normale supérieure in 1879, where he studied philosophy. He graduated in 1882 and began teaching the subject in France. In 1887 he was appointed to teach Social Sciences and Pedagogy at the University of Bordeaux, allowing him to teach the first ever official sociology courses in France. Also in 1887, Durkheim married Louise Dreyfus, with whom he would eventually have two children. During his time at Bordeaux, Durkheim had great success, publishing his doctoral thesis On the Division of Social Labor (1893, Division), The Rules of Sociological Method (1895, Rules), and Suicide: A Study in Sociology (1897, Suicide). In 1896 he established the prestigious Année sociologique, further cementing sociology’s place in the academic world.

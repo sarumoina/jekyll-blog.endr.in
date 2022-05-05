@@ -12,5 +12,5 @@ permalink: '/study/reference/pioneers-of-sociology'
 
 - [Emile Durkheim](/study/reference/people/emile-durkheim.html)
 
-- [Max Weber](#max-weber)
+- [Max Weber](/study/reference/people/max-weber.html)
 
