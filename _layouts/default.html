@@ -51,16 +51,16 @@
               margin-bottom:2em;
             }
 
-            ol {
+            .custom ol {
                 list-style: none;
                 counter-reset: cupcake;
                 /* padding-left: 32px; */
                 }
-                ol li {
+                .custom ol li {
                 counter-increment: cupcake;
                 list-style-type: none;
                 }
-                ol li:before {
+                .custom ol li:before {
                 content: counters(cupcake, ".") ". ";
                 }
         </style>

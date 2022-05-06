@@ -32,8 +32,8 @@ It refers to the study of events, processes and institutions of past civilizatio
 
 The historical apporach has two main forms. 
 
-1. The first one is influenced by biological theory of evolution: It was mainly followed by [Comte](/study/reference/people/auguste-comte), [Spencer](/study/reference/people/herber-spencer.html) and [Hobhouse](/study/reference/people/leonard-trelawny-hobhouse.html). 
-2. By economic interpretation: 
+- The first one is influenced by biological theory of evolution: It was mainly followed by [Comte](/study/reference/people/auguste-comte), [Spencer](/study/reference/people/herber-spencer.html) and [Hobhouse](/study/reference/people/leonard-trelawny-hobhouse.html). 
+- By economic interpretation: 
 
 #### The Statistical Method
 
@@ -46,5 +46,6 @@ The historical apporach has two main forms.
 ----
 
 _footnotes:__
+
 
 [^1]: C N Shankar Rao, page 38
