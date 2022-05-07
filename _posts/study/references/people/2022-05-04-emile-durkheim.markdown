@@ -4,6 +4,31 @@ title: 'Emile Durkheim (1858-1917)'
 permalink: '/study/reference/people/emile-durkheim.html'
 ---
 
+Table of Content:
+
+- [Introduction](#introduction)
+- [Important works:](#important-works)
+- [Life](#life)
+- [Intellectual Development and Influences](#intellectual-development-and-influences)
+- [Reception of Durkheim’s Thought](#reception-of-durkheims-thought)
+- [The Sociological Method: Society and the Study of Social Facts](#the-sociological-method-society-and-the-study-of-social-facts)
+- [Durkheim’s Social Realism](#durkheims-social-realism)
+- [Durkheim’s Sociology of Knowledge](#durkheims-sociology-of-knowledge)
+- [Représentations Collectives](#représentations-collectives)
+- [Durkheim’s Philosophy of Language](#durkheims-philosophy-of-language)
+- [The Categories](#the-categories)
+- [The Classification of Knowledge](#the-classification-of-knowledge)
+- [Cultural Relativism versus Scientific Truth](#cultural-relativism-versus-scientific-truth)
+- [Conclusion](#conclusion)
+- [Durkheim’s Philosophy of Religion](#durkheims-philosophy-of-religion)
+- [Durkheim on Morality](#durkheim-on-morality)
+- [Social Change and Modernity in the West](#social-change-and-modernity-in-the-west)
+- [Causes of Social Change](#causes-of-social-change)
+- [The Division of Labor and the Emergence of Modernity in Europe](#the-division-of-labor-and-the-emergence-of-modernity-in-europe)
+- [The Death of the Gods](#the-death-of-the-gods)
+- [The Cult of the Individual: Durkheim and Politics](#the-cult-of-the-individual-durkheim-and-politics)
+- [The Individual and Society](#the-individual-and-society)
+
 #### Introduction
 
 Émile Durkheim was a French sociologist who rose to prominence in the late 19th and early 20th centuries. Along with Karl Marx and Max Weber, he is credited as being one of the principal founders of modern sociology. Chief among his claims is that society is a sui generis reality, or a reality unique to itself and irreducible to its composing parts. It is created when individual consciences interact and fuse together to create a synthetic reality that is completely new and greater than the sum of its parts. This reality can only be understood in sociological terms, and cannot be reduced to biological or psychological explanations. The fact that social life has this quality would form the foundation of another of Durkheim’s claims, that human societies could be studied scientifically. For this purpose he developed a new methodology, which focuses on what Durkheim calls “social facts,” or elements of collective life that exist independently of and are able to exert an influence on the individual. Using this method, he published influential works on a number of topics. He is most well known as the author of On the Division of Social Labor, The Rules of Sociological Method, Suicide, and The Elementary Forms of Religious Life. However, Durkheim also published a voluminous number of articles and reviews, and has had several of his lecture courses published posthumously.
