@@ -117,7 +117,7 @@ Since there are different social system with different structure and complexity,
 
 ----
 
-[IGNOU unit 1 material](\assets\study\bsoc-101\unit-1.pdf)
+<span class="tag is-medium is-success is-light">[IGNOU unit 1 material](\assets\study\bsoc-101\unit-1.pdf)</span>
 
 _Footnotes:_
 
