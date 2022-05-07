@@ -8,6 +8,6 @@ layout: default
 
 [**Check Archive**](/archive) for all posts. 
 
-{% for page in site.pages %}
-{{ page.title }} {{page.url}} <br />
+{% for post in site.posts %}
+{{ post.title }} {{post.url}} <br />
 {% endfor %}
