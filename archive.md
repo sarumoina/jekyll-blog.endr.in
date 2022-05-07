@@ -3,7 +3,7 @@ title: 'Archive'
 layout: post
 ---
 
-<ul style="font-size:smaller">
+<ul>
     {% assign sorted_posts = site.posts | sort:"title"  %}
     {% for post in sorted_posts %}
       <li class='mt-4'>
