@@ -2,6 +2,7 @@
 layout: post
 title: 'BEGAE-182 Assignment'
 permalink: '/study/assignments/begae-182.html'
+tag: 'assignment'
 ---
 
 ![](https://ik.imagekit.io/endr/Assignments/BEGAE182_assignment_2021-22_1_V8flwdhHD.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651720193262)

@@ -2,6 +2,7 @@
 layout: post
 title: 'BEGG-172 Assignment'
 permalink: '/study/assignments/begg-172.html'
+tag: 'assignment'
 ---
 
 ![assignment](https://ik.imagekit.io/endr/BEGG_172_4_8j-Ac8_1S.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651718100711)
