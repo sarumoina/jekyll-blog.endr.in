@@ -2,6 +2,7 @@
 layout: post
 title: 'Methods of Sociology'
 permalink: '/study/reference/methods-of-sociology'
+tag: 'concept'
 ---
 
 - [The Comparative Method](#the-comparative-method)

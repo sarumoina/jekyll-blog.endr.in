@@ -2,6 +2,7 @@
 layout: post
 title: 'Abstract Empiricism'
 permalink: '/study/reference/abstract-empiricism'
+tag: 'concept'
 ---
 
 **Definition:** Abstracted empiricism refers to a style of quantitative sociology that attempts to explain the interrelationship between sociological variables using multivariate analysis. The term ‘abstracted empiricism’ was probably coined by C. Wright Mills (1960) to distinguish an approach to sociology that he regarded as obsessed with method and detrimental to the sociological imagination. 

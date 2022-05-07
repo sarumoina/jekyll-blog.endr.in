@@ -2,6 +2,7 @@
 layout: post
 title: 'Mills: The Promise'
 permalink: '/study/reference/the-promise-mills'
+tag: 'concept'
 ---
 
 The Sociological Imagination
