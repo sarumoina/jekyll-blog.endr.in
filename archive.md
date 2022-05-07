@@ -3,9 +3,9 @@ title: 'Archive'
 layout: post
 ---
 
-<ul>
+<ul style="font-size:smaller">
     {% for post in site.posts %}
-      <li>
+      <li class='mt-4'>
         <a class="is-capitalized" href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
