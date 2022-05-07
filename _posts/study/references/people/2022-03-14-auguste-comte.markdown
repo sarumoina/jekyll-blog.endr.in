@@ -2,9 +2,10 @@
 layout: post
 title: 'Auguste Comte'
 permalink: '/study/reference/people/auguste-comte'
+tag: 'people'
 ---
 
-He is regarded as the **Father of Sociology**
+He is regarded as the **Father of Sociology.** He considers sociology as a science based on systematic observation and classification of the social phenomenon.
 
 **Works**
 

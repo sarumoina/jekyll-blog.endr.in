@@ -2,6 +2,7 @@
 layout: post
 title: 'Herbert Spencer (1820-1903)'
 permalink: '/study/reference/people/herber-spencer.html'
+tag: 'people'
 ---
 
 #### Introduction

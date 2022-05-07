@@ -2,6 +2,7 @@
 layout: post
 title: 'Emile Durkheim (1858-1917)'
 permalink: '/study/reference/people/emile-durkheim.html'
+tag: 'people'
 ---
 
 Table of Content:

@@ -2,6 +2,7 @@
 layout: post
 title: 'Thomas Hobbes (1588-1679)'
 permalink: '/study/reference/people/thomas-hobbes.html'
+tag: 'people'
 ---
 
 Thomas Hobbes (1588–1679), whose current reputation rests largely on his political philosophy, was a thinker with wide-ranging interests. In philosophy, he defended a range of materialist, nominalist, and empiricist views against Cartesian and Aristotelian alternatives. In physics, his work was influential on Leibniz, and led him into disputes with Boyle and the experimentalists of the early Royal Society. In history, he translated Thucydides’ History of the Peloponnesian War into English, and later wrote his own history of the Long Parliament. In mathematics he was less successful, and is best remembered for his repeated unsuccessful attempts to square the circle. But despite that, Hobbes was a serious and prominent participant in the intellectual life of his time.

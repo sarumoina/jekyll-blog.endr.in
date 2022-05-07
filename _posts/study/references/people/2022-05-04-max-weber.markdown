@@ -2,6 +2,7 @@
 layout: post
 title: 'Max Weber (1864-1920)'
 permalink: '/study/reference/people/max-weber.html'
+tag: 'people'
 ---
 
 ----
