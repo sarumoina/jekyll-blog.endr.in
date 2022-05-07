@@ -24,4 +24,4 @@ However these differences are not true anymore since, the demarcation between th
 
 #### Emergence and history of sociology
 
-
+Sociology as an academic discourse has relatively short history of development. Although, the study of society was occuring centuries after centuries, sociology as a subject came to exist only in 19<sup>th</sup> century

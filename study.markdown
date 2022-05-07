@@ -3,6 +3,7 @@ title: 'Study Index'
 layout: post
 ---
 
+<div style="text-align:left !important">
 
 1. **BSOC-101**
    1. [Unit-01: Thinking Sociologically](/study/bsoc-101/unit-01/thinking-sociologically.html)
@@ -24,3 +25,5 @@ layout: post
 
 - [Abstract Empiricism](/study/reference/abstract-empiricism)
 - [Pioneers of Sociology](/study/reference/pioneers-of-sociology) List of people and their works
+
+</div>
