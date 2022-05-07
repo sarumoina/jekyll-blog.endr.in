@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unit 02: Emergence of Sociology and Social Anthropology'
+title: 'BSOC 101 | Unit 02: Emergence of Sociology and Social Anthropology'
 permalink: '/study/bsoc-101/unit-02/emergence-of-sociology-and-social-anthropology.html'
 tag: 'study material'
 ---

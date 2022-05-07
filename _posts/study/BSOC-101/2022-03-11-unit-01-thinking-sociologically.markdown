@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unit 01: Thinking Sociologically'
+title: 'BSOC 101 | Unit 01: Thinking Sociologically'
 permalink: '/study/bsoc-101/unit-01/thinking-sociologically.html'
 tag: 'study material'
 ---
