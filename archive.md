@@ -6,7 +6,7 @@ layout: post
 <ul style="font-size:smaller">
     {% for post in site.posts %}
       <li class='mt-4'>
-        <a class="is-capitalized" href="{{ post.url }}">{{ post.title }} </a> in {{ post.tags }}
+        <a class="is-capitalized" href="{{ post.url }}">{{ post.title }} </a> {% if post.tag %} in {{ post.tags }} {% endif %}
       </li>
     {% endfor %}
 </ul>
