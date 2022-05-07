@@ -2,6 +2,7 @@
 layout: post
 title: 'Unit 01: Thinking Sociologically'
 permalink: '/study/bsoc-101/unit-01/thinking-sociologically.html'
+tag: 'study material'
 ---
 
 #### Objectives
@@ -117,7 +118,7 @@ Since there are different social system with different structure and complexity,
 
 ----
 
-<span class="tag is-medium is-success is-light">[Download IGNOU Unit 01: Thinking Sociologically study material](\assets\study\bsoc-101\unit-1.pdf)</span>
+<span class="tag is-medium is-primary is-light">[Download IGNOU Unit 01: Thinking Sociologically study material](\assets\study\bsoc-101\unit-1.pdf)</span>
 
 _Footnotes:_
 
