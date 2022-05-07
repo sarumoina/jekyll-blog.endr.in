@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auguste Comte'
+title: 'Auguste Comte (1798-1857)'
 permalink: '/study/reference/people/auguste-comte'
 tag: 'people'
 ---

@@ -117,6 +117,8 @@ Since there are different social system with different structure and complexity,
 
 ----
 
+[IGNOU unit 1 material](\assets\study\bsoc-101\unit-1.pdf)
+
 _Footnotes:_
 
 [^1]: In philosophy, empiricism is a theory that states that knowledge comes only or primarily from sensory experience. In other words, the theory that all knowledge is based on experience derived from the senses. 
