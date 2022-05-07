@@ -1,6 +1,7 @@
 ---
 title: 'Archive'
 layout: post
+permalink: '/archive.html'
 ---
 
 <ul style="font-size:smaller">
