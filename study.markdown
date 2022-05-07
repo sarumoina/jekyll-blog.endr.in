@@ -1,7 +1,6 @@
 ---
 title: 'Study Index'
 layout: post
-permalink: '/study.html'
 ---
 
 

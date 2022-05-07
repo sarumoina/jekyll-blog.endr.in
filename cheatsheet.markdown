@@ -1,7 +1,6 @@
 ---
 title: Cheatsheet
 layout: post
-permalink: '/cheatsheet.html'
 ---
 
 
