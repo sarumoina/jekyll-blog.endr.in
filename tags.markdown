@@ -3,10 +3,12 @@ title: 'Tags'
 layout: post
 ---
 
-{% assign sorted_tags = site.tags | sort %}
+{% assign sorted_tags = site.tags | sort:tag[0] %}
 
 {% for tag in site.tags %}
-<h3>{{tag[0]}}</h3>
+
+#### {{tag[0]}}
+
 {% assign sorted_posts = tag[1] | sort:"title" %}
 <ul>
     {% for post in sorted_posts %}
