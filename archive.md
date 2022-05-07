@@ -14,7 +14,7 @@ layout: post
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
-    {% for post in tag[1] %}
+    {% for post in tag[1] | sort %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
