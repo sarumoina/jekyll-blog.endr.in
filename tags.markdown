@@ -7,7 +7,7 @@ layout: post
 
 {% for tag in site.tags %}
 
-#### {{tag[0] | capitalize }}
+##### {{tag[0] | capitalize }}
 
 {% assign sorted_posts = tag[1] | sort:"title" %}
 <ul>
