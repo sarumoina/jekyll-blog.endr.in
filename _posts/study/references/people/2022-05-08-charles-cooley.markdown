@@ -63,7 +63,6 @@ Thus, the three stages observed in the looking-glass self are outlines as:
 In line with William James's thoughts, the concept of the looking glass self-contributed to an increasing abandonment of the so-called Cartesian disjunction between the human mind and the external social world. Cooley sought to break down the barrier Cartesian thought had erected between the individual and its social context.
 
 >A self-idea of this sort seems to have three principal elements: the imagination of our appearance to the other person; the imagination of his judgment of that appearance, and some sort of self-feeling, such as pride or mortification.
-
 >— Charles Cooley, Human Nature and the Social Order, p. 152
 
 ##### Social process
