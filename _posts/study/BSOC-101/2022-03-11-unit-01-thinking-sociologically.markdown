@@ -118,7 +118,7 @@ Since there are different social system with different structure and complexity,
 
 ----
 
-<span class="tag is-medium is-primary is-light">[Download IGNOU Unit 01: Thinking Sociologically study material](\assets\study\bsoc-101\unit-1.pdf)</span>
+<span class="tag is-medium is-primary is-light">[Download IGNOU Unit 01 study material](\assets\study\bsoc-101\unit-1.pdf)</span>
 
 _Footnotes:_
 

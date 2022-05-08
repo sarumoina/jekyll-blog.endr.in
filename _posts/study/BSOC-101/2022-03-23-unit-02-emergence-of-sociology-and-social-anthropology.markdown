@@ -58,3 +58,4 @@ Hence, they tried to find new bases based upon the new ideas that has been broug
 - Durkheim
 - Parsons
 
+<span class="tag is-medium is-primary is-light">[Download IGNOU Unit 02 study material](\assets\study\bsoc-101\unit-2.pdf)</span>
