@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<span class="title is-size-5-mobile is-size-4-desktop">{{page.title}}</span> <span class="tag is-primary is-light">{{page.tag}}</span>
+<span class="title is-size-5-mobile is-size-4-desktop">{{page.title}}</span> 
+{% if page.tag %}
+    <span class="tag is-primary is-light is-medium">{{page.tag}}</span>
+{% endif %}
+
 <p> </p>
 
 <div class="has-text-justified">
