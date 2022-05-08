@@ -12,7 +12,7 @@ layout: post
 {% assign sorted_posts = tag[1] | sort:"title" %}
 <ul>
     {% for post in sorted_posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li class="mt-2"><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
 {% endfor %}
