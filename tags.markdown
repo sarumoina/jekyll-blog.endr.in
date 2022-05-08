@@ -7,7 +7,7 @@ layout: post
 
 {% for tag in site.tags %}
 
-##### {{tag[0] | capitalize }}
+##### <ion-icon name="pricetag-outline"></ion-icon> {{tag[0] | capitalize }}
 
 {% assign sorted_posts = tag[1] | sort:"title" %}
 <ul>
