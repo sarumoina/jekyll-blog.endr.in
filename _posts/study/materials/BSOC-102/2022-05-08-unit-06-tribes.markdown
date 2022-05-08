@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'BSOC 102 | Unit 06: Tribes'
+permalink: '/study/bsoc-102/unit-05/tribes.html'
+tag: 'study material'
+---
+
+#### Under construction
