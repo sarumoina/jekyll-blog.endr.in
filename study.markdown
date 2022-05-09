@@ -20,9 +20,6 @@ layout: post
    12. [Unit 12: Socialization](/study/bsoc-101/unit-12/socialization.html)
    13. [Unit 13: Structure and Function](/study/bsoc-101/unit-12/structure-and-function.html)
    14. [Unit 14: Social Control and Change](/study/bsoc-101/unit-14/social-control-and-change.html)
-
-<p> &nbsp; </p>
-
 2. **BSOC-102**
    1. [Unit 01: Indological Discourse](/study/bsoc-102/unit-01/indological-discourse.html)
    2. [Unit 02: Colonial Discourse](/study/bsoc-102/unit-02/colonial-discourse.html)
