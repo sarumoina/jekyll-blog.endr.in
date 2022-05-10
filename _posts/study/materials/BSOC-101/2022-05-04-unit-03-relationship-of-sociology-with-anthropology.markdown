@@ -10,6 +10,7 @@ people_link: '/study/reference/people'
 
 - [Nature of Sociology and Social anthropology](#nature-of-sociology-and-social-anthropology)
 - [Emergence and history of sociology](#emergence-and-history-of-sociology)
+- [Emergence and history of anthropology](#emergence-and-history-of-anthropology)
 
 #### Nature of Sociology and Social anthropology
 
@@ -30,7 +31,7 @@ However these differences are not true anymore since, the demarcation between th
 Sociology as an academic discourse has relatively short history of development. Although, the study of society was occuring centuries after centuries, sociology as a subject came to exist only in 19<sup>th</sup> century. In anceint times, *[Socreates](https://en.wikipedia.org/wiki/Socrates), [Plato](https://en.wikipedia.org/wiki/Plato), [Aristotole](https://en.wikipedia.org/wiki/Aristotle), [Cicero](https://en.wikipedia.org/wiki/Cicero)* has provided immense contribution towards understanding of human society. This was the first time when scholars try to understand human society in a systematic manner. In the medieval age i.e. 16<sup>th</sup> century A.D., *[Thomas Hobbes](/study/reference/people/thomas-hobbes.html)* and also *[Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli)* made impatcful contribution to understand the relationship between Society and the State. In Europe by 18<sup>th</sup> century, many scholars were born such as *Rousseau, Vico and Baron de Montesquieu* who studied various social phenomena of their times. These earlier works by various scholars have led to the foundation of social science which includes both sociology and anthropology. Among the contributional factors for the emergence of Social sciences, the most siginificant one is **the socio-political changes that were taking place in Europe in 18<sup>th</sup> and 19<sup>th</sup> century which includes industrial revolution and French revolution.** There were different scholars at different places which have helped in establishing sociology as a discourse. 
 
 - In Europe, [*Claude Henri Saint Simon*]({{page.people_link}}/claude-henri-de-rouvroy-de-saint-simon.html) used the idea of *the science of society.*
-  
+    
 - [*August Comte*]({{page.people_link}}/auguste-comte.html) laid the foundation which is based on France. 
   
 - [*Herbert Spencer*]({{page.people_link}}/herber-spencer.html) was also one of the main contributors.
@@ -46,7 +47,29 @@ Sociology as an academic discourse has relatively short history of development. 
 Other pioneers include:
 
 - [George Herbert Mead]({{page.people_link}}/george-herbert-mead.html)
+  
 - [C wright Mills]({{page.people_link}}/c-wright-mills.html)
+  
+- [Talcott Parsons]({{page.people_link}}/talcott-parsons.html)
+  
+- [Robert K. Merton]({{page.people_link}}/robert-k-merton.html)
+  
+- [Erving Goffman]({{page.people_link}}/erving-goffman.html)
+  
+- [George C. Homans]({{page.people_link}}/george-c-homans.html)
+  
+- [Michel Foucault]({{page.people_link}}/michel-foucault.html)
+  
+- [Jurgen Habermas]({{page.people_link}}/jurgen-habermas.html)
+  
+- [Pierre Bourdieu]({{page.people_link}}/pierre-bourdieu.html)
+  
+- [Anthony Giddens]({{page.people_link}}/anthony-giddens.html)
+
+
+#### Emergence and history of anthropology
+
+
 
 
 ----
