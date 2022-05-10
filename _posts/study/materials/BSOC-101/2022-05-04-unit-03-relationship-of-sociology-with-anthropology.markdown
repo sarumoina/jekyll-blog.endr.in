@@ -36,6 +36,11 @@ Sociology as an academic discourse has relatively short history of development. 
 - [*Max Weber*](/study/reference/people/max-weber.html) via his book [The Protestant Ethic and the Spirit of Capitalism and Economy and Society](https://app.treasure.cloud/share/public/c5779b065dca6beaef4901d1a9b30a6a26bf99e459b5f0798bb3b66738b20391) has also helped in laying the foundation. 
 - [*Karl Marx*] wrote **Das Capital** [[*vol.1*](/assets/study/books/karl-marx-das-capital-vol-1.pdf), [*vol.2*](/assets/study/books/karl-marx-das-capital-vol-2.pdf), [*vol.3*](/assets/study/books/karl-marx-das-capital-vol-3.pdf)] which also contributed to Sociology even though the subjects were out of scope for it. 
 
+Other pioneers include:
 
+- [George Herbert Mead](/study/reference/people/george-herbert-mead.html)
+
+
+----
 
 <span class="tag is-medium is-primary is-light">[Download IGNOU Unit 03 study material](\assets\study\bsoc-101\unit-3.pdf)</span>
