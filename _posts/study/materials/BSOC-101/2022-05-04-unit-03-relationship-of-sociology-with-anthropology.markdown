@@ -3,6 +3,7 @@ layout: post
 title: 'BSOC 101 | Unit 03: Relationship of Sociology with Anthropology'
 permalink: '/study/bsoc-101/unit-03/relationship-of-sociology-with-anthropology.html'
 tag: 'study material'
+people_link: '/study/reference/people'
 ---
 
 **Table of Contents:**
@@ -39,6 +40,7 @@ Sociology as an academic discourse has relatively short history of development. 
 Other pioneers include:
 
 - [George Herbert Mead](/study/reference/people/george-herbert-mead.html)
+- [C wright Mills]({{page.people_link}}/c-wright-mills.html)
 
 
 ----
