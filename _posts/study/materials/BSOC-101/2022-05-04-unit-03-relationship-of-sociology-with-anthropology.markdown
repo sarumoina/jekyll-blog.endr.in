@@ -69,7 +69,9 @@ Other pioneers include:
 
 #### Emergence and history of anthropology
 
-The emergence and development of anthropology can be attributed to the scientific development of the western world. But even in pre-historic era, various scholars have wrote about the subject even though it wasn't clearly marked as a subject. e.g. [Herodotus]({{page.people_link}}/herodotus.html) was prominent writer in 5<sup>th</sup> century B.C. The greek philosophers such as [Socrates]({{page.people_link}}/socrates.html), Plato and [Aristotole]({{page.people_link}}/aristotole.html) have also contributed towards anthropology.  
+The emergence and development of anthropology can be attributed to the scientific development of the western world. But even in pre-historic era, various scholars have wrote about the subject even though it wasn't clearly marked as a subject. e.g. [Herodotus]({{page.people_link}}/herodotus.html) was prominent writer in 5<sup>th</sup> century B.C. The greek philosophers such as [Socrates]({{page.people_link}}/socrates.html), Plato and [Aristotole]({{page.people_link}}/aristotole.html) have also contributed towards anthropology. Marcus Tullius Cicero also made a significant contribution towards understanding of human society.
+
+
 
 
 
