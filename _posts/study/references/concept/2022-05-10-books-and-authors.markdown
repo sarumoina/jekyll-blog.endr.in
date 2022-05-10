@@ -14,6 +14,6 @@ tag: concept
 - [Introduction to Positive Philosophy](/assets/study/books/auguste-comte-introduction-to-positive-philosophy.pdf)
 
 
-<div class="notification is-warning is-light">
+<div class="notification is-warning is-light mt-4">
   <p>All the books linked here is for educational purposes only. No copyright infringement is intended. For any takedown, kindly contact at: contact@endr.in</p>
 </div>
