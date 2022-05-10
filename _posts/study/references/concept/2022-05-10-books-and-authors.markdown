@@ -5,11 +5,11 @@ permalink: '/study/reference/books-and-authors.html'
 tag: concept
 ---
 
-## Author List
+### Author List
 
 - [Author List](#author-list)
-      - [Auguste Comte](#auguste-comte)
-      - [Karl Marx](#karl-marx)
+    - [Auguste Comte](#auguste-comte)
+    - [Karl Marx](#karl-marx)
 
 ----
 
