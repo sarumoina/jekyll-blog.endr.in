@@ -15,12 +15,12 @@ tag: concept
 
 ##### Auguste Comte
 
-- [Introduction to Positive Philosophy](/assets/study/books/auguste-comte-introduction-to-positive-philosophy.pdf)
+- [Introduction to Positive Philosophy](https://www.dropbox.com/s/l5ju6ue24q0t7ay/auguste-comte-introduction-to-positive-philosophy.pdf?dl=1)
 
 ##### Karl Marx
-- [Das Capital vol.1](/assets/study/books/karl-marx-das-capital-vol-1.pdf)
-- [Das Capital vol.2](/assets/study/books/karl-marx-das-capital-vol-2.pdf)
-- [Das Capital vol.3](/assets/study/books/karl-marx-das-capital-vol-3.pdf)
+- [Das Capital vol.1](https://www.dropbox.com/s/wt5m9ndzacempju/karl-marx-das-capital-vol-1.pdf?dl=1)
+- [Das Capital vol.2](https://www.dropbox.com/s/d29s9wbgiqwj90m/karl-marx-das-capital-vol-2.pdf?dl=1)
+- [Das Capital vol.3](https://www.dropbox.com/s/rk3ed8ftndd6q3z/karl-marx-das-capital-vol-3.pdf?dl=0)
 
 
 <div class="notification is-warning is-light mt-4">
